@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="app_bg_color">#503412</color>
+    <color name="yello">#F4DC05</color>
+    <color name="green">#29F40E</color>
+    <color name="drack_blue">#0C264E</color>
+    <color name="drack_red">#610404</color>
+    <color name="red">#EF1E1E</color>
+    <color name="blue">#1E91EF</color>
+    <color name="pink">#ED1AF0</color>
+
+</resources>

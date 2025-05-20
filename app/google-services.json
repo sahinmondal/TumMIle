@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "849866253249",
+    "project_id": "tummile-bd8a3",
+    "storage_bucket": "tummile-bd8a3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:849866253249:android:fd52fc6fd362fdda6d4540",
+        "android_client_info": {
+          "package_name": "com.tum.tummile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCO1ui1IukIq8T6xCfhSFGRDZCEMsKgT50"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
